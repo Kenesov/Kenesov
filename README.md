@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Flutter, Android Development, Firebase, AI Integration**
 
-- 💬 Ask me about **React, Vue, GSAP**
-
 - ⚡ Fun fact **I love building things that make people’s life easier 🚀**
 
 <h3 align="left">Connect with me:</h3>
